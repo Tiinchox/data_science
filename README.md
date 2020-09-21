@@ -6,4 +6,6 @@ Projects from the course 'Python for Data Science and Machine Learning' made in 
 - Advertising: Logistic Regression using Scikit-Learn.
 - KNN: K Nearest Neighbors using Scikit-Learn.
 - Loans: Decision Trees and Random Forests using Scikit-Learn.
+- College: K Means Clustering with Scikit-Learn
+- Yelp: Natural Language Processing with Scikit-Learn
 
